@@ -35,4 +35,4 @@ if __name__ == '__main__':
     for i in range(len(analyze)):
         total += check[i] * analyze[i]
 
-    print("Your total bill is {:.2f}".format(1.1 * total))
+    print("Your total bill is {:.2f} VND".format(1.1 * total))
